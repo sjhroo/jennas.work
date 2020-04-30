@@ -452,7 +452,7 @@ footer .social {
 
 .title_en {font-family: 'Playfair Display', serif; font-weight:bold; font-size:64px; line-height: 68px}
 .title_container {position:relative;}
-.text_block {position: absolute; top: 140px; left: 12px;}
+.text_block {position: absolute; top: 180px; left: 12px;}
 .title_bg {
     width:53%; height: 500px; margin:5% 23.5% 8% 23.5%; 
     background-color: #A6FFEE;
