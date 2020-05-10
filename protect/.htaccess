@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "restricted area"
-AuthUserFile /MacintoshHD⁩/files/_jennas.work/protect/.htpasswd
+AuthUserFile /www/_jennas.work/protect/.htpasswd
 require valid-user
