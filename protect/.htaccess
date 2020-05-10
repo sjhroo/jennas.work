@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Protected Site"
+AuthUserFile ../_jennas.work/protect/.htpasswd
+require valid-user
