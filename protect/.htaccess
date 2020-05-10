@@ -1,4 +1,4 @@
 AuthType Basic
-AuthName "Protected Site"
+AuthName "restricted area"
 AuthUserFile /MacintoshHD⁩/files/_jennas.work/protect/.htpasswd
 require valid-user
