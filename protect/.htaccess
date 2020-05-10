@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "restricted area"
-AuthUserFile /protect/.htpasswd
+AuthUserFile /_jennas.work/protect/.htpasswd
 require valid-user
